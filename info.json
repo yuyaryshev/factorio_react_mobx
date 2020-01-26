@@ -1,0 +1,10 @@
+{
+  "name": "factorio_react_mobx",
+  "version": "0.0.1",
+  "title": "factorio_react_mobx",
+  "author": "thelordodin",
+  "homepage": "https://github.com/yuyaryshev/factorio_react_mobx",
+  "dependencies": ["base"],
+  "description": "factorio_react_mobx - is a simplified implementation of React and Mobx for Factorio UI. This library allows you to easily create UI in declarative way. Github for details.",
+  "factorio_version": "0.17"
+}
